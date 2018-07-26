@@ -13,7 +13,7 @@ Depois, clonar este reposório com os seguintes comandos:
     $ git clone https://github.com/flaviajanine/MD-audio-classify.git
     $ cd MD-audio-classify
 
-Se não quiser baixar o git, pode simplesmente baixar o arquivo zip [master.zip](https://github.com/flaviajanine/MD-audio-classify/archive/master.zip), descompactar e mover `MD-audioclassify` para o diretório de sua preferência.
+Se não quiser baixar o git, pode simplesmente baixar o arquivo zip [master.zip](https://github.com/flaviajanine/MD-audio-classify/archive/dev.zip), descompactar e mover `MD-audioclassify` para o diretório de sua preferência.
 
 ## Python & Bibliotecas Necessárias
 
