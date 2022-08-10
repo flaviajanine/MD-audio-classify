@@ -45,7 +45,7 @@ MarkupSafe==1.0
 matplotlib==2.2.2
 mglearn==0.1.6
 mistune==0.8.3
-nbconvert==5.3.1
+nbconvert==6.3.0
 nbdime==0.4.1
 nbformat==4.4.0
 networkx==2.1
